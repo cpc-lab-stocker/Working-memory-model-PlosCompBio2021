@@ -15,7 +15,7 @@ function all_model_code
     dstep = 0.1;
     
     % Here, the model parameters corresponds to subject S9 in Exp 2, see
-    % Fig. 10
+    % Fig. 6 and Fig. 10
     paramsAll = [6.4379    9.9076           0.0000     32.5355   -17.6389   3.0964    1.5830    0.2067    0.4086];
     lapseRate = paramsAll(3);
 
